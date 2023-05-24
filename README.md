@@ -1,2 +1,3 @@
 # ProyectTest
-No sé que poner acá.
+¡Bienvenidos!
+Este es un repositorio de prueba.
